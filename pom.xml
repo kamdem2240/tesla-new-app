@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.143.78.44:8081/repository/grp22-jenk-lib-release/</url> 
+	      <url>http://172.31.43.48:8081/repository/grp22-jenk-lib-release/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.143.78.44:8081/repository/grp22-jenk-snapshot/</url>
+	      <url>http://172.31.43.48:8081/repository/grp22-jenk-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
