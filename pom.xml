@@ -20,7 +20,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://18.219.150.102:9000/</sonar.host.url>
+		<sonar.host.url>http://172.31.41.39:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.143.78.44:8081/repository/tesla-release/</url> 
+	      <url>http://172.31.43.48/repository/grp22-jebk-lib/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.143.78.44:8081/repository/tesla-snapshot/</url>
+	      <url>http://172.31.43.48:8081/repository/grp22-lib-proj-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
